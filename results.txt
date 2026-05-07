@@ -1,0 +1,25 @@
+Image Captioning Results
+============================================================
+BLEU-4: 30.89  CIDEr: 0.44
+============================================================
+
+Image   : 901635.jpg
+Objects : bicycle
+Caption : the man in the blue shirt is standing on top of a mountain
+------------------------------------------------------------
+Image   : cat-and-dog.jpg
+Objects : horse
+Caption : two dogs one brown and one white are running through the grass
+------------------------------------------------------------
+Image   : image.png
+Objects : bicycle
+Caption : a woman in a pink top is taking a picture with her camera
+------------------------------------------------------------
+Image   : man-yellow-raincoat-jeans-shorts-260nw-632677187.webp
+Objects : bicycle
+Caption : a man in a yellow shirt and blue shorts is standing in front of a mountain
+------------------------------------------------------------
+Image   : outdoor.jpg
+Objects : bicycle
+Caption : a group of children running in a park with trees in the background
+------------------------------------------------------------
