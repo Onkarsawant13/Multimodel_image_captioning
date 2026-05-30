@@ -14,13 +14,7 @@
 
 This project builds a **multi-modal image captioning system** that combines object detection, scene understanding, and relational reasoning to generate accurate and fluent image descriptions. Generated captions are converted to natural speech using **Google Cloud Text-to-Speech**, making the system useful for accessibility applications for visually impaired users.
 
-**Live Demo:**
 
-| Upload Image | Generated Caption + Audio |
-|---|---|
-| ![upload](assets/screenshot_upload.png) | ![output](assets/screenshot_output.png) |
-
----
 
 ## 🏆 Results
 
